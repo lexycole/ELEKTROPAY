@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.12.5",
+    "@clerk/nextjs": "^6.23.3",
     "@supabase/supabase-js": "^2.49.1",
     "@types/spreedly-iframe-browser": "^1.0.3",
     "next": "15.2.2",
